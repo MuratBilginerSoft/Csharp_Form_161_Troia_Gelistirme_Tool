@@ -1,0 +1,52 @@
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.exe
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\NgenInstaller.dll
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Form1.resources
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.exe
+C:\Users\mrt_b\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.exe
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Charts.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Layout.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar2.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.Instrumentation.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\NgenInstaller.dll
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar2.xml
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.Instrumentation.xml
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csprojResolveAssemblyReference.cache
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Form1.resources
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Properties.Resources.resources
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csproj.GenerateResource.Cache
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.exe
+F:\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.exe
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.exe
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\EKS Troia Geliştirme Tool v1.0.pdb
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\NgenInstaller.dll
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Form1.resources
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Properties.Resources.resources
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS Troia Geliştirme Tool v1.0.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\EKS Troia Geliştirme Tool v1.0\EKS Troia Geliştirme Tool v1.0\obj\x86\Debug\EKS_Troia_Geliştirme_Tool_v1._0.Tablo_Yöneticisi.resources
